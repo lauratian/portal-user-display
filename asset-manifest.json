@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portal-user-display/static/css/main.073c9b0a.css",
+    "main.js": "/portal-user-display/static/js/main.eda1430f.js",
+    "static/js/787.2d44c47f.chunk.js": "/portal-user-display/static/js/787.2d44c47f.chunk.js",
+    "static/media/logo.svg": "/portal-user-display/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portal-user-display/index.html",
+    "main.073c9b0a.css.map": "/portal-user-display/static/css/main.073c9b0a.css.map",
+    "main.eda1430f.js.map": "/portal-user-display/static/js/main.eda1430f.js.map",
+    "787.2d44c47f.chunk.js.map": "/portal-user-display/static/js/787.2d44c47f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eda1430f.js"
+  ]
+}
